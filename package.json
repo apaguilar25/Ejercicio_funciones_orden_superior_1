@@ -1,0 +1,18 @@
+{
+  "name": "clase-topicos-2710",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types":"module",
+  "scripts": {
+    "build:start": "npx tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Andrea Aguilar <andrea@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}
